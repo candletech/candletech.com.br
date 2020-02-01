@@ -1375,6 +1375,15 @@ h3 {
   }
 }
 
+.title-text h1 {
+  color: #001D38;
+  font-family: "Poppins", sans-serif;
+  font-size: 50px;
+  font-weight: 500;
+  line-height: 66px;
+  margin-bottom: 9px;
+  margin-bottom: 40px;
+}
 /* line 1, ../../Arafath/CL/CL October/219. SEO/HTML/scss/_slider.scss */
 .slider_bg_1 {
   background-image: url(../img/banner/banner.png);
@@ -1470,7 +1479,6 @@ h3 {
   color: #001D38;
   font-family: "Poppins", sans-serif;
   font-size: 50px;
-  text-transform: capitalize;
   font-weight: 500;
   line-height: 66px;
   margin-bottom: 9px;
