@@ -4522,6 +4522,30 @@ h6 {
   border-left: 2px solid #ff5e13;
 }
 
+.testimonial {
+  padding: 30px;
+  color: #000;
+  -webkit-box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.1);
+  box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.1);
+  line-height: 1.7;
+  font-style: italic; }
+  .testimonial .vcard figure {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 50px;
+    flex: 0 0 50px; }
+    .testimonial .vcard figure img {
+      border-radius: 50%; }
+  .testimonial .vcard .vcard-text {
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.2; }
+    .testimonial .vcard .vcard-text .position {
+      color: #b3b3b3; }
+  .testimonial strong {
+    font-weight: 400;
+    padding: .3rem 0;
+    background: #faf5bb; }
+    
 /* line 353, ../../Arafath/CL/CL October/219. SEO/HTML/scss/_elements.scss */
 .progress-table-wrap {
   overflow-x: scroll;
