@@ -1,5 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Poppins:200,200i,300,300i,400,400i,500,500i,600,600i,700,800&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Poppins:200,200i,300,300i,400,400i,500,500i,600,600i,700,800&display=swap");
+@import url("https://use.typekit.net/ukw6gph.css");
 /* line 1, ../../Arafath/CL/CL October/219. SEO/HTML/scss/_extend.scss */
 .boxed-btn3, .boxed-btn3-text:hover, .footer .footer_top .footer_widget .newsletter_form button, .footer .socail_links ul li a:hover {
   /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#FA6900+0,ff6357+100 */
@@ -23,7 +24,7 @@
 /* 1. Theme default css */
 /* line 5, ../../Arafath/CL/CL October/219. SEO/HTML/scss/theme-default.scss */
 body {
-  font-family: "Poppins", sans-serif;
+  font-family: "Aileron", sans-serif;
   font-weight: normal;
   font-style: normal;
 }
@@ -75,10 +76,13 @@ button {
 
 /* line 39, ../../Arafath/CL/CL October/219. SEO/HTML/scss/theme-default.scss */
 h1, h2, h3, h4, h5 {
-  font-family: "Poppins", sans-serif;
+  font-family: "Aileron", sans-serif;
   color: #001D38;
 }
 
+.space {
+  justify-content: space-around;
+}
 /* line 43, ../../Arafath/CL/CL October/219. SEO/HTML/scss/theme-default.scss */
 h1 a,
 h2 a,
@@ -108,7 +112,7 @@ p {
   line-height: 28px;
   margin-bottom: 26px;
   margin-bottom: 13px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Aileron", sans-serif;
 }
 
 /* line 69, ../../Arafath/CL/CL October/219. SEO/HTML/scss/theme-default.scss */
@@ -415,7 +419,7 @@ h3 {
   color: #131313;
   display: inline-block;
   padding: 18px 44px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Aileron", sans-serif;
   font-size: 14px;
   font-weight: 400;
   border: 0;
@@ -446,7 +450,7 @@ h3 {
 
 /* line 29, ../../Arafath/CL/CL October/219. SEO/HTML/scss/_btn.scss */
 .boxed-btn3 {
-  font-family: "Poppins", sans-serif;
+  font-family: "Aileron", sans-serif;
   font-size: 15px;
   font-weight: 500;
   color: #fff;
@@ -482,7 +486,7 @@ h3 {
 
 /* line 64, ../../Arafath/CL/CL October/219. SEO/HTML/scss/_btn.scss */
 .boxed-btn3-text {
-  font-family: "Poppins", sans-serif;
+  font-family: "Aileron", sans-serif;
   font-size: 15px;
   font-weight: 500;
   color: #fff;
@@ -517,7 +521,7 @@ h3 {
   color: #fff;
   display: inline-block;
   padding: 14px 27px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Aileron", sans-serif;
   font-size: 16px;
   font-weight: 500;
   border: 0;
@@ -556,7 +560,7 @@ h3 {
   color: #fff;
   display: inline-block;
   padding: 13px 27px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Aileron", sans-serif;
   font-size: 14px;
   font-weight: 400;
   border: 0;
@@ -602,7 +606,7 @@ h3 {
   color: #FA6900 !important;
   display: inline-block;
   padding: 14px 31px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Aileron", sans-serif;
   font-size: 14px;
   font-weight: 400;
   border: 0;
@@ -643,7 +647,7 @@ h3 {
   color: #fff;
   display: inline-block;
   padding: 18px 24px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Aileron", sans-serif;
   font-size: 14px;
   font-weight: 400;
   border: 0;
@@ -1113,7 +1117,7 @@ h3 {
   font-weight: 400;
   display: inline-block;
   padding: 0px 0px 0px 0px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Aileron", sans-serif;
   position: relative;
   text-transform: capitalize;
 }
@@ -1377,7 +1381,7 @@ h3 {
 
 .title-text h1 {
   color: #001D38;
-  font-family: "Poppins", sans-serif;
+  font-family: "Aileron", sans-serif;
   font-size: 50px;
   font-weight: 500;
   line-height: 66px;
@@ -1477,7 +1481,7 @@ h3 {
 /* line 56, ../../Arafath/CL/CL October/219. SEO/HTML/scss/_slider.scss */
 .slider_area .single_slider .slider_text h3 {
   color: #001D38;
-  font-family: "Poppins", sans-serif;
+  font-family: "Aileron", sans-serif;
   font-size: 50px;
   font-weight: 500;
   line-height: 66px;
@@ -2186,7 +2190,7 @@ h3 {
 /* line 103, ../../Arafath/CL/CL October/219. SEO/HTML/scss/_gallery.scss */
 .portfolio_details_area .portfolio_details_content p {
   font-size: 16px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Aileron", sans-serif;
   color: #727272;
   line-height: 28px;
 }
@@ -2707,7 +2711,7 @@ h3 {
   cursor: pointer;
   display: block;
   float: left;
-  font-family: "Poppins", sans-serif;
+  font-family: "Aileron", sans-serif;
   font-weight: normal;
   width: 100% !important;
   /* height: 42px; */
@@ -2745,7 +2749,7 @@ h3 {
   top: 3px;
   transition: all 0.15s ease-in-out;
   width: 5px;
-  font-family: fontawesome;
+  font-family: aileron;
   color: #919191;
   font-size: 15px;
 }
