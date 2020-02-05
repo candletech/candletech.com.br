@@ -52,6 +52,7 @@
 }
 .ti-tablet:before {
 	content: "\e609";
+	color: #FA6900;
 }
 .ti-star:before {
 	content: "\e60a";
@@ -490,6 +491,7 @@
 }
 .ti-home:before {
 	content: "\e69b";
+	color: #FA6900;
 }
 .ti-help:before {
 	content: "\e69c";
@@ -1063,6 +1065,7 @@
 }
 .ti-email:before {
 	content: "\e75a";
+	color: #FA6900;
 }
 .ti-drupal:before {
 	content: "\e75b";
