@@ -1,7 +1,7 @@
 <?php
 
 ## CONFIG ##
-
+$to = "lorrayne@candletech.com.br";
 # LIST EMAIL ADDRESS
 $recipient = "enter the lists email address here";
 
