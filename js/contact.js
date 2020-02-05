@@ -14,7 +14,7 @@ $(document).ready(function () {
                 rules: {
                     name: {
                         required: true,
-                        minlength: 2
+                        minlength: 3
                     },
                     subject: {
                         required: true,
@@ -35,16 +35,16 @@ $(document).ready(function () {
                 },
                 messages: {
                     name: {
-                        required: "come on, you have a name, don't you?",
-                        minlength: "your name must consist of at least 2 characters"
+                        required: "Campo obrigatório",
+                        minlength: "Seu nome deve conter pelo menos 3 caracteres"
                     },
                     subject: {
-                        required: "Destacar o assunto é importante para nós",
-                        minlength: "Pode descrever um pouco mais?"
+                        required: "Campo obrigatório",
+                        minlength: "your subject must consist of at least 4 characters"
                     },
                     number: {
-                        required: "come on, you have a number, don't you?",
-                        minlength: "Digite nome e sobrenome para nos ajudar a te identificar"
+                        required: "Campo obrigatório",
+                        minlength: "Seu número deve ter pelo menos 8 caracteres"
                     },
                     email: {
                         required: "Campo obrigatório"
