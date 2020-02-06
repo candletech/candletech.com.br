@@ -27,6 +27,11 @@
   .icon-asterisk:before {
     content: "\f069";
   }
+
+  .icon-whats:before {
+    content: "\f232";
+  }
+  
   .icon-plus:before {
     content: "\f067";
   }
