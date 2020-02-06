@@ -49,7 +49,7 @@ $response = curl_exec($session);
 
 echo ("<SCRIPT LANGUAGE='JavaScript'>
 	window.alert('Enviado com Sucesso !')
-	window.location.href='index.php';
+	window.location.href='index.html';
 	</SCRIPT>");
 
 curl_close($session);
