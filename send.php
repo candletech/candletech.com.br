@@ -2,13 +2,13 @@
 
 $url = 'https://api.sendgrid.com/';
 $user = 'candletech';
-$pass = 'thesims123!@#';
+$pass = 'pegasus2020!@#';
 
 
 $name = $_POST["name"];
 $from = $_POST["email"];
 $subject = "Contato - Candle Tech";
-$text = $name.': '.$_POST["message"];
+$text = $_POST["message"];
 
 
 
