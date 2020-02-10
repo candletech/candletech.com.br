@@ -1,8 +1,8 @@
 <?php
 
 $url = 'https://api.sendgrid.com/';
-$user = 'candletech';
-$pass = 'pegasus2020!@#';
+// $user = 'candletech';
+// $pass = 'pegasus2020!@#';
 
 
 $name = $_POST["name"];
